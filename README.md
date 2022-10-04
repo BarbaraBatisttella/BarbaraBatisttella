@@ -16,9 +16,28 @@
  
 </div>
   
-  ##
+  <div>
+    <p></p>  
+  DevOps
+    <p></p>
+    
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+
+Ferramentas de Desenvolvimento
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  
+  </div>
+  
   
  <div>
+   Onde você pode me achar
+   <br>
+   <p></p>
   <a href = "mailto:batisttellab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/barbara_m00n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
