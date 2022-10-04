@@ -1,4 +1,5 @@
 ### Olá, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella
+### Hello, welcome to my github profile, my name is Barbara Batisttella
 
 
 <div align="center">
