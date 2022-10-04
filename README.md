@@ -1,5 +1,10 @@
-### Olá, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella
-### Hello, welcome to my github profile, my name is Barbara Batisttella
+👩 Olá, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella
+
+🤔 &nbsp; Explorando o mundo da tecnologia e (tentando) programar.
+- 🎓 &nbsp; Estudando **Programação de aplicativos** no <a href="link da sua faculdade">SENAC</a>.
+- 💼 &nbsp; Em busca de uma vaga de emprego
+- 🌱 &nbsp; Aprendendo mais sobre **Java, C# e desenvolvimento web**.
+
 
 
 <div align="center">
@@ -35,7 +40,7 @@ Ferramentas de Desenvolvimento
   
   
  <div>
-   Onde você pode me achar
+   🌎Onde você pode me encontrar
    <br>
    <p></p>
   <a href = "mailto:batisttellab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
