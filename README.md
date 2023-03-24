@@ -1,9 +1,9 @@
-👩 Olá, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella
+👩 Hello World, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella e eu curso Ciências da Computação na Unoesc.
 
-🤔 &nbsp; Explorando o mundo da tecnologia e (tentando) programar.
-- 🎓 &nbsp; Estudando **Programação de aplicativos** no <a href="link da sua faculdade">SENAC</a>.
-- 💼 &nbsp; Em busca de uma vaga de emprego
-- 🌱 &nbsp; Aprendendo mais sobre **Java, C# e desenvolvimento web**.
+🤔 &nbsp; Explorando o mundo da tecnologia e (tentando) programar;
+- 🎓 &nbsp; Estudando **Programação de aplicativos** na UNoesc;
+- 💼 &nbsp; Em busca de uma vaga de emprego em programação;
+- 🌱 &nbsp; Aprendendo mais sobre **Java, C#, Python e desenvolvimento web**.
 
 
 
