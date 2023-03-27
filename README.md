@@ -1,11 +1,20 @@
-👩 Hello World, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella e eu curso Ciências da Computação na Unoesc.
+👩 Olá mundo, bem vindo(a) ao meu perfil do Github, meu nome é Bárbara Batisttella e eu curso Ciências da Computação na Unoesc.
 
 🤔 &nbsp; Explorando o mundo da tecnologia e (tentando) programar;
-- 🎓 &nbsp; Estudando **Programação de aplicativos** na UNoesc;
 - 💼 &nbsp; Em busca de uma vaga de emprego em programação;
 - 🌱 &nbsp; Aprendendo mais sobre **Java, C#, Python e desenvolvimento web**.
+<br>
+  👩‍💻&nbsp; Um pouco sobre mim!
+
+-  Aprendo programação desde 2020, sendo meu primeiro contato com o curso técnico do São João Batista, onde nós possuiamos matérias sobre: Banco de dados, programação de aplicativos, Teste de software e entre outros. No ano de 2022 me inscrevi no curso de Jovem programador no Senac, com carga horária de 320 horas, sendo 200 programação de aplicativos e 120 desenvolvimento web.
+-  Atualmente estou no primeiro período da faculdade de Ciências da Computação na Unoesc sempre buscando me atualizar fazendo novos cursos relacionados à area de tecnologia.
 
 
+👩 Hello World, welcome to my Github profile, my name is Barbara Batisttella and i'm currently studying Computer Science at Unoesc.
+
+🤔   &nbsp; Exploring the world of tecnology and (trying) programing;
+- 💼 &nbsp; Looking for a job in the technology field;
+- 🌱 &nbsp; Learning more about **Java, C#, Python and Web developing**.
 
 <div align="center">
   <a href="https://github.com/BarbaraBatisttella">
