@@ -12,7 +12,7 @@
 👩 Hello World, welcome to my Github profile, my name is Barbara Batisttella and i'm currently studying Computer Science at Unoesc.
 
 🤔   &nbsp; Exploring the world of tecnology and (trying) programing;
-- 🌱 &nbsp; Learning more about **Java, C#, Python and Web developing**.
+- 🌱 &nbsp; Learning more about **Java, C and Web developing**.
 
 <div align="center">
   <a href="https://github.com/BarbaraBatisttella">
