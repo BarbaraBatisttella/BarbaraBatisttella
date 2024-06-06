@@ -1,4 +1,5 @@
-<img src="C:\Users\Babsg\Downloads\Banner para Linkedin Tecnologia em Preto.png" />
+<img src="Users\Babsg\DownloadsBanner para Linkedin Tecnologia em Preto.png" >
+<img src="C:\Users\Babsg\DownloadsBanner para Linkedin Tecnologia em Preto.png" />
 
 Estou no terceiro período de Ciências da Computação na Unoesc, á procura de estágio na area de desenvolvimento Back-end, entusiasta das tecnologias JavaScript, Java e Python. 
 
