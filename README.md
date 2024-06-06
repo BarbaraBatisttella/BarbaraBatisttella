@@ -1,5 +1,4 @@
-<img src="https://www.canva.com/design/DAGBUNlMrdo/w4mE9wtkR0Pp_2bc7EilhQ/view?utm_content=DAGBUNlMrdo&utm_campaign=designshare&utm_medium=link&utm_source=editor" >
-
+![Banner para Linkedin Tecnologia em Preto](https://github.com/BarbaraBatisttella/BarbaraBatisttella/assets/98975638/af1a10fa-7875-49b1-905c-6c68bcf1274a)
 
 Estou no terceiro período de Ciências da Computação na Unoesc, á procura de estágio na area de desenvolvimento Back-end, entusiasta das tecnologias JavaScript, Java e Python. 
 
