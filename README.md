@@ -1,5 +1,5 @@
-<img src="Users\Babsg\DownloadsBanner para Linkedin Tecnologia em Preto.png" >
-<img src="C:\Users\Babsg\DownloadsBanner para Linkedin Tecnologia em Preto.png" />
+<img src="https://www.canva.com/design/DAGBUNlMrdo/w4mE9wtkR0Pp_2bc7EilhQ/view?utm_content=DAGBUNlMrdo&utm_campaign=designshare&utm_medium=link&utm_source=editor" >
+
 
 Estou no terceiro período de Ciências da Computação na Unoesc, á procura de estágio na area de desenvolvimento Back-end, entusiasta das tecnologias JavaScript, Java e Python. 
 
