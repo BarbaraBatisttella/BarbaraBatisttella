@@ -1,11 +1,11 @@
 ![Banner para Linkedin Tecnologia em Preto](https://github.com/BarbaraBatisttella/BarbaraBatisttella/assets/98975638/af1a10fa-7875-49b1-905c-6c68bcf1274a)
 
-Estou no terceiro período de Ciências da Computação na Unoesc, á procura de estágio na area de desenvolvimento Back-end, entusiasta das tecnologias JavaScript, Java e Python. 
+Estou no quarto período de Ciências da Computação na Unoesc, á procura de estágio na area de Ciência de Dados, entusiasta das tecnologias Python e R. 
 
-No momento, meu foco de estudos é em Spring bot e em Django - em um futuro próximo, viso me tornar um desenvolvedora Back-end senior.
-Desenvolvo projetos simples - aberta a oportunidades!
+No momento, meu foco de estudos é em Machine Learning, Estatística, SQL e NoSQL - em um futuro próximo, viso me tornar uma Ciêntista de Dados Sênior.
+Desenvolvo soluções simples - aberta a oportunidades!
 
-Também amo café, ouvir todo tipo de música e estou disponível para conexões e trocar ideias!
+Também amo café, gosto de ouvir todo tipo de música e estou disponível para conexões e trocar ideias!
 
 📌 [Meu portifólio](em andamento)
 
@@ -17,7 +17,6 @@ Também amo café, ouvir todo tipo de música e estou disponível para conexões
  </div>
  
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
  
 
